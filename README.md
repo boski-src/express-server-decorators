@@ -1,4 +1,4 @@
-express-server-decorators
+[express-server-decorators](https://www.npmjs.com/package/express-server-decorators)
 ===
 
 > Project provide typescript decorators for easily setup web server based on ExpressJS.
