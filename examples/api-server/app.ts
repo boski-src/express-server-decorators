@@ -10,4 +10,4 @@ export class App extends ExpressApp {
 
 }
 
-export const app : App = new App(AppConfig);
+export const app : App = new App(AppConfig, '', (e : any) => console.log);
